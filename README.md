@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I'm Yan,
+## Hi there 👋 I'm Yan,
 
 I am a data science student who is interested in Machine Learning and Deep Learning as well as Data Science. Also in every new technology that is making our lives better!
 Strong Advocate for open-source and new innovation!
