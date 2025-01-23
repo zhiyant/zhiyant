@@ -21,7 +21,7 @@ Strong Advocate for open-source and new innovation!
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 🌱 I’m currently learning Machine learning and NLP
 - 👯 I’m looking to collaborate on NLP-related research
-- ⚡ **Fun fact:** I enjoy portrait photography and language learning. (I can speak Cantonese, Chinese and English)
+- ⚡ **Fun fact:** I enjoy portrait photography and language learning. (I can speak Cantonese, Mandarian and English)
 
 ## My skills include
 <!-- https://github.com/Ileriayo/markdown-badges#how-to-use -->
